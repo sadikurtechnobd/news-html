@@ -1,0 +1,765 @@
+@media all and (max-width:1200px){
+	/************header area*************/
+	.header-menu ul li {
+		font-size: 16px;
+	}
+	.header-menu ul li {
+		padding-right: 12px;
+	}
+	
+	/*************post left area*********/
+	#tabs {
+		position: relative;
+	}
+	.tabs {
+		height: 52%;
+	}
+	
+	/***********admin area**********/
+	.admin-list ul li a {
+		padding-right: 5px;
+		font-size: 11px;
+	}
+	
+	/************health area************/
+	.helth-content h3 {
+		font-size: 16px;
+		line-height: 24px;
+	}
+	.sidebar-item a {
+		font-size: 18px;
+		line-height: 27px;
+	}
+	
+	/********footer-area*******/
+	.menu-heading-area h2 {
+		font-size: 16px;
+	}
+	.suscribe-area h2 {
+		font-size: 16px;
+	}
+	
+	
+	/***********menubar area*********/
+	.logo3 {
+		margin-top: 9px;
+		margin-right: 20px;
+	}
+	.logo2.logo3 img {
+	}
+	.top-fixed .menubar ul .megamenu {
+		top: 66px;
+	}
+	.top-fixed .menubar ul .dropdown {
+		top: 66px;
+	}
+	.top-fixed .menubar ul li a {
+		font-size: 15px;
+	}
+	.megamenu-item2 a {
+		padding-right: 0 !important;
+	}
+	.megamenu-item3 .single-content-area a {
+		font-size: 13px;
+		font-weight: 400;
+	}
+	.megamenu-item3 a {
+		padding-right: 0 !important;
+	}
+	.megamenu-item3 .single-content-area {
+		padding-left: 9px;
+	}
+	.top-fixed .search-button {
+		padding: 20px 0;
+	}
+	.menubar ul .megamenu {
+		max-width: 930px;
+	}
+}
+@media all and (max-width:992px){
+	/*********header area*********/
+	.social-icon ul {
+		-webkit-box-pack: center;
+		    -ms-flex-pack: center;
+		        justify-content: center;
+		padding-top: 9px;
+	}
+	.header-menu ul {
+		text-align: center;
+	}
+	.header-area {
+		display: none;
+	}
+		.header-menu {
+		padding: 0 30px;
+		float: left;
+	}
+	.social-icon {
+		float: left;
+		width: 100%;
+		padding: 0 30px;
+		margin-bottom: 20px;
+	}
+	.social-icon ul {
+		-webkit-box-pack: left;
+		    -ms-flex-pack: left;
+		        justify-content: left;
+	}
+	
+	/**********post left area*******/
+	.post-tabs-item h2 {
+		font-size: 20px;
+		line-height: 27px;
+		width: 100%;
+	}
+	
+	/***********busketball area*********/
+	.busketball-area h3 {
+		font-size: 16px;
+		line-height: 24px;
+	}
+	.busketball-area p {
+		margin-bottom: 20px;
+	}
+	.busketball-area h3 a {
+		color: #000000 !important;
+	}
+	
+	/**********training area*********/
+	.training-content-area a {
+		font-size: 20px;
+		line-height: 30px;
+	}
+	.training-item-area {
+		display:block;
+	}
+	.training-content-area {
+		padding-left: 0;
+	}
+	.training-area img {
+		width: 100%;
+		height: 180px;
+	}
+	
+	/*********sports area*********/
+	.sports-item h3 {
+		font-size: 16px;
+		line-height: 24px;
+	}
+	
+	/*********admin list area********/
+	.admin-list2 ul {
+		padding-top: 0;
+	}
+	.admin-list2 ul li a {
+		font-size: 10px !important;
+		padding-right: 1px;
+	}
+	
+	/*********social profile area*******/
+	.profile-area ul li {
+		font-size: 13px;
+	}
+	.profile-area ul li i {
+		width: 25px;
+		height: 25px;
+		line-height: 26px;
+		font-size: 16px;
+		margin-right: 3px;
+	}
+	.profile-area ul li span {
+		padding-left: 9px;
+	}
+	.right-span {
+		padding-right: 6px;
+		padding-top: 1px;
+	}
+	.check-list {
+		width: 100%;
+	}
+	.voted {
+		width: 100%;
+		padding: 09px;
+		margin-bottom: 9px;
+	}
+	
+	.heading-title2 span {
+		padding-right: 4%;
+		font-size: 13px;
+	}
+	.popular-tag-area h2 {
+		font-size: 17px;
+		padding-left:14px;
+	}
+	
+	/********footer area********/
+	.menu-heading-area {
+		padding-top: 20px;
+	}
+	.suscribe-area {
+		padding-top: 20px;
+	}
+	.copyright-area {
+		text-align: center;
+	}
+	
+	/********logo area*******/
+	.logo img {
+		height: 80px;
+	}
+	.menu-icon {
+		display: block;
+	}
+	.menu-icon {
+		position: relative;
+		width: 30%;
+		float: left;
+		overflow: hidden;
+		margin-top: 25px;
+	}
+	.logo {
+		float: left;
+		width: 40%;
+		text-align: Center;
+	}
+	
+	/*********tags area*******/
+	.tags-area h2 {
+		padding: 6px 45px 6px 20px;
+	}
+	.tags-area ul {
+		padding-left: 8px;
+	}
+	.tags-area ul li a {
+		padding: 3px 6px;
+	}
+	
+	/*********comment area********/
+	.comment-admin-picture:before {
+		height: 250px;
+	}
+	.picture-comment:before {
+		height: 99px !important;
+	}
+	
+	/********contact area********/
+	.contact-area {
+		padding-bottom: 14px;
+	}
+	
+	/********menubar area*******/
+	.menubar ul li a {
+		font-size: 15px;
+		padding-right: 12px;
+	}
+	.menubar-area {
+		display: none;
+	}
+	.mobile-menubar-area {
+		overflow-y: scroll;
+	}
+	.mobile-menubar-area {
+		display: block;
+	}
+	.canvas-menu {
+		-webkit-transform: translate(-100%,0px);
+		        transform: translate(-100%,0px);
+	}
+	.mobile-menu {
+		display: -webkit-box;
+		display: -ms-flexbox;
+		display: flex;
+		padding-top: 5px;
+	}
+	.search-button {
+		padding-top: 8px;
+	}
+	.search-input {
+		width: 190px;
+		right: 14px;
+		top: 64px;
+	}
+	.search-button{
+		display:none;
+	}
+	.search-button2{
+		display:block;
+	}
+	.menubar ul{
+		float:none;
+	}
+	.menubar ul li{
+		display:block;
+	}
+	.menubar ul ul li {
+		padding: 3px 0px;
+	}
+	.menubar-area {
+		padding: 3px 0;
+	}
+	.menubar ul .megamenu {
+		position: inherit;
+		width: 100% !important;
+		padding:0;
+		background: transparent;
+	}
+	.megamenu-item3 .single-content-area a {
+		color: #000000 !important;
+	}
+	.menubar ul .dropdown1 {
+		position: inherit;
+		border: none;
+		background: transparent;
+		padding-left: 30px;
+		display:none;
+	}
+	.menu li {
+		border-bottom: 1px dashed rgba(255, 255, 255, 0.5);
+		padding: 0 0 !important;
+	}
+	.menu li:last-child{
+		border:none;
+	}
+	.menubar ul .dropdown li:hover {
+		background: transparent;
+	}
+	.menubar ul li a {
+		color: #FFF;
+	}
+	.megamenu:before, .dropdown:before {
+		display: none;
+	}
+	.megamenu:before, .dropdown:after {
+		display: none;
+	}
+	.search-button i.search {
+		padding-top: 24px;
+	}
+	
+	/*********magazine area*******/
+	.magazine-ad-area {
+		display: none;
+	}
+	#tabs3 {
+		padding: 10px 10px;
+	}
+	.crime-area {
+		padding-top: 30px;
+	}
+	.social-icon ul li a {
+		padding-left: 0;
+		margin-right: 15px;
+	}
+}
+@media all and (min-width:767px){
+	.menu{
+		display:block !important;
+	}
+}
+@media all and (max-width:767px){
+	/**********post left area**********/
+	.tabs {
+		display: none !important;
+	}
+	
+	/*********admin list area*******/
+	.admin-list2 ul li a {
+		font-size: 12px !important;
+		padding-right: 1px;
+	}
+	
+	/**********social profile area********/
+	.check-list {
+		width: 50%;
+	}
+	.voted {
+		width: 36%;
+		padding-right: 9px;
+		padding-top: 22px;
+	}
+	
+	/*********footer area******/
+	.footer-social-area ul {
+		-webkit-box-pack: center;
+		    -ms-flex-pack: center;
+		        justify-content: center;
+		padding-top: 9px;
+	}
+	
+	/**********trending area********/
+	.trending h2 {
+		width: 125px;
+		padding: 7px 0;
+		font-size: 14px;
+	}
+	
+	/**********news area*******/
+	.ti_news a {
+		font-size: 15px;
+	}
+	.ti_news{
+		padding-top:6px;
+	}
+	.trending h2 {
+		font-size: 13px;
+	}
+	.TickerNews {
+		margin-left: 9px;
+		padding-top: 0;
+	}
+	
+	/*********post reading area*******/
+	.post-heading h3 {
+		font-size: 22px;
+		line-height: 33px;
+	}
+	
+	/**********comment area********/
+	.comment-admin-picture:before {
+		height: 172px;
+	}
+	.picture-comment:before {
+		height: 64px !important;
+	}
+	
+	/***********contact area*********/
+	.input-area input {
+		width: 100%;
+		margin-top: 20px;
+	}
+	
+	/*********magazine area*****/
+	.magazine-area{
+		display: none;
+	}
+	
+	/*********header area********/
+	.header-area {
+		display: none;
+	}
+	.responsive-menu{
+		display:block;
+	}
+	
+	/********sports area*****/
+	.sport-single-item {
+		padding-left: 0;
+	}
+	
+	/********busketball area****/
+	.busketball-area h3 {
+		padding-left: 0;
+	}
+	
+	/*********default tabs css********/
+	.ui-tabs-tab.ui-corner-top.ui-state-default.ui-tab {
+		padding-left: 9px;
+	}
+	.ui-corner-all, .ui-corner-bottom, .ui-corner-right, .ui-corner-br {
+		border: none;
+		border-radius:0;
+	}
+	.modal-dialog {
+		max-width: 500px;
+	}
+}
+@media all and (max-width:576px){
+	/********tags area*******/
+	.tags-area h2 {
+		padding: 6px 43px 6px 17px;
+	}
+	.tags-area ul li a {
+		padding: 3px 9px;
+	}
+	
+	/********comment area*****/
+	.admin-comment-area .replay {
+		font-size: 14px;
+	}
+	.admin-comment-area ul li {
+		font-size: 14px;
+		padding-right: 10px;
+	}
+	.admin-comment-area p {
+		font-size: 12px;
+	}
+	.comment-admin-picture2:before {
+		width: 46px;
+	}
+	.admin-comment-area {
+		padding-left: 13px;
+	}
+	
+	/*********social profile area*******/
+	.modal-dialog {
+		max-width: 320px;
+	}
+	.oldervote p {
+		font-size: 14px;
+	}
+	.oldervote ul li {
+		font-size: 13px;
+	}
+}
+@media all and (max-width:450px){
+	/*********header area*******/
+	.header-menu{
+		padding-top:20px !important;
+		text-align:center;
+		padding:0 15px;
+		float:none;
+	}
+	.social-icon {
+		float: none;
+		padding: 0 15px;
+	}
+	.social-icon ul {
+		-webkit-box-pack: center;
+		    -ms-flex-pack: center;
+		        justify-content: center;
+	}
+	
+	/*********post left area********/
+	.post-tabs-item h2 {
+		font-size: 18px;
+		line-height: 24px;
+		width: 100%;
+	}
+	
+	/*********admin list area******/
+	.admin-list2 ul li a {
+		font-size: 13px;
+	}
+	.admin-list ul li a {
+		padding-right: 1px;
+	}
+	
+	/********miss area*****/
+	.miss-area {
+		padding-top: 20px;
+	}
+	
+	/*********tranding area******/
+	.main-tranding-area {
+		padding: 20px 0;
+	}
+	.trending h2 {
+		width: 107px;
+		font-size: 12px;
+	}
+	
+	/**********training area*****/
+	.training-content-area a {
+		font-size: 16px;
+		line-height: 24px;
+	}
+	.main-training-area {
+		padding: 20px 0;
+	}
+	
+	/**********health and crime area*****/
+	.helth-crime-area {
+		padding: 20px 0;
+	}
+	.crime-area {
+		padding-top: 20px;
+	}
+	/**********popular area****/
+	.popular-item p {
+		font-size: 12px;
+		line-height: 18px;
+	}
+	.popular-area {
+		padding: 20px 0px;
+	}
+	
+	/**********social profile area*****/
+	.social-profile-area {
+		padding-top: 0px;
+	}
+	.voted {
+		width: 43%;
+	}
+	.voted p {
+		font-size: 14px;
+	}
+	.check-item p {
+		font-size: 14px;
+		padding-top: 9px;
+	}
+	.modal-dialog {
+		max-width: 290px;
+	}
+	.oldervote p {
+		font-size: 13px;
+	}
+	.oldervote {
+		padding: 15px 15px;
+	}
+	
+	/*********sidebar area*****/
+	.sidebar-area {
+		padding: 9px 0px;
+	}
+	
+	/**********popular tag area******/
+	.popular-tag-area {
+		padding-top: 20px;
+	}
+	
+	/**********category area*****/
+	.category-area {
+		padding: 20px 0px;
+	}
+	
+	/***********footer area*******/
+	.footer-top-area {
+		padding: 25px 0px 25px 0;
+	}
+	.footer-social-area ul li a {
+		padding-left: 20px;
+	}
+	
+	/*********logo area**********/
+	.logo img {
+		margin-top: 8px;
+	}
+	
+	/**********post reading area*******/
+	.post-heading h3 {
+		font-size: 18px;
+		line-height: 27px;
+	}
+	.post-admin p {
+		font-size: 13px;
+		padding-top: 3px;
+	}
+	.post-admin ul li a {
+		font-size: 13px;
+	}
+	.post-text p {
+		font-size: 15px;
+	}
+	
+	/*********tags area*****/
+	.tags-area h2 {
+		padding: 6px 30px 6px 9px;
+	}
+	.tags-area ul {
+		padding-left: 3px;
+	}
+	.tags-area ul li a {
+		padding: 3px 5px;
+		font-size: 11px;
+		margin-right: 3px;
+	}
+	
+	/***********share area*******/
+	.social-share-area h2 {
+		font-size: 21px;
+	}
+	.social-share-area ul li {
+		width: 30px;
+		height: 30px;
+		line-height: 30px;
+	}
+	.social-share-area ul li a {
+		font-size: 18px;
+	}
+	
+	/*********article area*****/
+	.previous-text {
+		width: 100%;
+	}
+	.next-text {
+		width: 100%;
+	}
+	
+	/**********comment area*********/
+	.comment-admin-picture img {
+		width: 80px;
+		height: 80px;
+	}
+	.admin-comment-area {
+		padding-left: 6px;
+	}
+	.admin-comment-area ul li {
+		font-size: 12px;
+	}
+	.comment-admin-picture2 img {
+		width: 80px;
+		height: 80px;
+	}
+	.admin-comment-area p {
+		font-size: 11px;
+	}
+	.comment-admin-picture:before {
+		top: 0px;
+		height: 0px;
+	}
+	.comment-admin-picture {
+		position: inherit;
+	}
+	.picture-comment:before {
+		height: 0px;
+	}
+	.sub-comment-area {
+		padding-left: 60px;
+	}
+	.comment-admin-picture2:before {
+		width:0;
+		height:0;
+		right:0;
+	}
+	.comment-admin-picture2 img {
+		width: 60px;
+		height: 60px;
+	}
+	.admin-comment-area ul li {
+		padding-right: 5px;
+		font-size: 11px;
+	}
+	
+	/**********contact area*******/
+	.input-area input {
+		margin-top: 14px;
+	}
+	.text-area textarea {
+		margin-top: 14px;
+		height: 120px;
+	}
+	.contact-area {
+		padding-bottom: 20px;
+	}
+	/**********mobile menubar area******/
+	.menubar-area {
+		background-color: #111;
+		-webkit-transition: 0.5s;
+		transition: 0.5s;
+		color:#FFF;
+	}
+	.mobile-logo-area {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.mobile-menubar{
+		padding-left:15px;
+		padding-right:15px;
+	}
+	.mobile-logo-area img {
+		width: auto;
+		height: 40px;
+	}
+	.user-crossbar-area {
+		margin-top: 5px;
+	}
+	.user-crossbar-area .user-icon i {
+		padding-right: 20px;
+	}
+	.ti_news a{
+		font-size:14px;
+	}
+	.ti_news{
+		padding-top:7px;
+	}
+}
